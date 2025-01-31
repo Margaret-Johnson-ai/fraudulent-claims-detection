@@ -10,16 +10,7 @@ We use **SQL for fraud detection**, **Python (pandas, matplotlib, seaborn) for v
 ---
 
 ## 📁 Project Structure  
-  
 
-fraudulent-claims-detection/
-│── data/                  # Contains dataset
-│── notebooks/             # Jupyter notebooks for EDA & SQL analysis
-│── reports/               # Final summary report
-│── scripts/               # Any Python helper scripts
-│── README.md              # Project documentation
-│── requirements.txt       # Required dependencies
-│── LICENSE                # Open-source license
 
 ---
 
