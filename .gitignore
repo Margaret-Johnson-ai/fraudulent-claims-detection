@@ -1,0 +1,9 @@
+# Ignore Jupyter Notebook checkpoints
+notebooks/.ipynb_checkpoints/
+
+# Ignore virtual environment files
+venv/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
