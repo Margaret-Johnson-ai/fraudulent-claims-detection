@@ -4,7 +4,7 @@ Detecting fraudulent insurance claims using SQL queries and data analysis.
 
 🔍 Project Overview
 
-This project analyzes insurance claims data to identify potential fraudulent claims.We use SQL for fraud detection, Python (pandas, matplotlib, seaborn) for visualization, and Jupyter Notebooks for analysis.
+This project analyzes insurance claims data to identify potential fraudulent claims.I use SQL for fraud detection, Python (pandas, matplotlib, seaborn) for visualization, and Jupyter Notebooks for analysis.
 
 💁 Project Structure
 
@@ -17,6 +17,16 @@ fraudulent-claims-detection/
 ├── requirements.txt       # Required dependencies
 └── LICENSE                # Open-source license
 
+📂 Dataset Source
+
+The dataset used in this project was sourced from Mendeley Data.
+
+🔗 Link to Dataset: Fraudulent Claims Dataset - Mendeley Data
+
+📝 Citation:Nnamoko, N., & Korkontzelos, I. (2019). Synthetic auto insurance dataset for fraud detection. Mendeley Data, V2. https://doi.org/10.17632/992mh7dk9y.2
+
+📌 Usage Notice:This dataset is provided for research and educational purposes only. If you use this dataset in your project, ensure proper citation as per the original source guidelines.
+
 📊 Key Insights & Findings
 
 ✅ Fraudulent Claims Rate: 📈 18.5% of claims in the dataset were flagged as fraudulent.
@@ -27,7 +37,7 @@ fraudulent-claims-detection/
 
 ✅ Policy Deductibles & Fraud: Higher deductibles ($1,000+) had a 30% increase in fraud cases.
 
-🗒️ Example SQL Query Used for Fraud Analysis:
+🗒️ Example SQL Query Used for Fraud Analysis
 
 SELECT 
     policy_deductable, 
@@ -74,6 +84,38 @@ Run SQL_Analysis.ipynb to execute fraud detection queries.
 🔹 API Integration: Create an API for real-time fraud detection.
 
 🔹 Dashboard: Develop a dashboard to visualize fraud trends.
+
+🔥 Challenges & Lessons Learned
+
+🚧 Difficulties Encountered
+
+🔹 Git & Version Control Issues: Faced initial difficulties with Git commands, tracking changes, and handling .gitignore.
+
+🔹 Jupyter Notebook Errors: Encountered issues launching Jupyter Notebook and linking it properly to the virtual environment.
+
+🔹 SQL Queries Debugging: Ran into missing column errors due to incorrect table schema and inconsistent column names.
+
+🔹 Formatting README for GitHub: Ensuring proper markdown formatting (e.g., using triple backticks for code blocks).
+
+🎯 How I Overcame These Challenges
+
+✅ Resolved Git Issues: Learned proper Git workflow (git add, git commit, git push), staged files correctly, and fixed .gitignore.
+
+✅ Fixed Jupyter Notebook Errors: Activated the virtual environment properly (source venv/Scripts/activate) and reinstalled dependencies.
+
+✅ Debugged SQL Queries: Used PRAGMA table_info(insurance_claims); to inspect table structure and adjust column names accordingly.
+
+✅ Mastered Markdown Formatting: Understood how GitHub renders markdown and formatted code blocks, headings, and bullet points correctly.
+
+🎓 Key Takeaways
+
+📌 GitHub & Version Control: Gained confidence in using Git commands, staging changes, and handling repositories.
+
+📌 SQL Query Debugging: Learned how to check schema details, fix column mismatches, and optimize queries for accuracy.
+
+📌 Markdown Best Practices: Understood how to format a professional README file for clear presentation and recruiter appeal.
+
+📌 Perseverance & Learning: Most importantly, learned that problem-solving, patience, and continuous learning are crucial in real-world tech projects.
 
 📩 Connect With Me
 
