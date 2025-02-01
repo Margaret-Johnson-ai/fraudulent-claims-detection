@@ -123,5 +123,5 @@ Run SQL_Analysis.ipynb to execute fraud detection queries.
 
 📧 Email: mjohnson@learnexcelgrow.org
 
-🌟 LinkedIn: linkedin.com/in/margaretjohnson180
+🌟 LinkedIn: linkedin.com/in/margaretjohnson180  LinkedIn: linkedin.com/in/margaretjohnson180
 
