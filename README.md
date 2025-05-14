@@ -54,7 +54,6 @@ fraudulent-claims-detection/
 - 🧾 [SQL Analysis Notebook](https://github.com/Margaret-Johnson-ai/fraudulent-claims-detection/blob/main/notebooks/SQL_Analysis.ipynb) — Shows fraud detection query logic and SQL result tables.
 
 ---
----
 
 ## 🔍 Key Insights & Findings
 
